@@ -17,7 +17,6 @@ public class primeCheck {
                 System.out.print(num + " ");
             }
         }
-        
         sc.close();
     }
     public static boolean isPrime(int n) {
